@@ -1,5 +1,5 @@
 {
-  "name": "pwa-budget-tracker",
+  "name": "budget-tracker-progressive-web-app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/priyaravi23/pwa-budget-tracker.git"
+    "url": "git+https://github.com/mcelhatton/budget-tracker-progressive-web-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/priyaravi23/pwa-budget-tracker/issues"
+    "url": "https://github.com/mcelhatton/budget-tracker-progressive-web-app/issues"
   },
-  "homepage": "https://github.com/priyaravi23/pwa-budget-tracker#readme",
+  "homepage": "https://github.com/mcelhatton/budget-tracker-progressive-web-app#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
